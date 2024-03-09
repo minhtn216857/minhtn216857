@@ -12,13 +12,13 @@ My name is Minh Tran. My major is Mathematics and Informatics. I am interested i
 </a>
 <a href="https://github.com/minhtn216857/AI_Powered_Mouse">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtn216857&repo=AI_Powered_Mouse&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtn216857&repo=AI_Powered_Mouse&theme=merko" />
 </a>
 <a href="https://github.com/minhtn216857/AI_Powered_Mouse">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtn216857&repo=AI_Powered_Mouse&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtn216857&repo=AI_Powered_Mouse&theme=dark" />
 </a>
 <a href="https://github.com/minhtn216857/AI_Powered_Mouse">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtn216857&repo=AI_Powered_Mouse&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtn216857&repo=AI_Powered_Mouse&theme=highcontrast" />
 </a>
