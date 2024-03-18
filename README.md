@@ -14,6 +14,7 @@ My name is Minh Tran. My major is Mathematics and Informatics. I am interested i
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtn216857&repo=Project_QuickDraw&theme=merko" />
 </a>
+
 <a href="https://github.com/minhtn216857/Project_QuickDraw">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=minhtn216857&repo=Project_QuickDraw&theme=dark" />
